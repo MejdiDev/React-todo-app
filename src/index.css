@@ -375,7 +375,7 @@ body.dark:hover {
   padding: 20px 24px;
   width: 492px;
   height: 24px;
-  border: none;
+  border: none !important;
   background-color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -390,9 +390,9 @@ body.dark:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-bottom: solid;
-  border-bottom-width: 1px;
-  border-color: #e3e4f1;
+  border-bottom: solid !important;
+  border-bottom-width: 1px !important;
+  border-color: #e3e4f1 !important;
   cursor: -webkit-grab;
   cursor: grab;
   -webkit-transition-duration: 0s;
