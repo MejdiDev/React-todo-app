@@ -1,0 +1,2 @@
+# React-Todo-App
+This CRUD web app with help you organize your thoughts and plans by giving you a simple and accessable way to: add, check off and delete tasks which will be saved to local storage so they don't change even if you refresh your page. this project is my attempt at this Frontend Mentor challenge: https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW.
