@@ -376,6 +376,9 @@ body.dark:hover {
   width: 492px;
   height: 24px;
   border: none !important;
+  border-bottom: solid !important;
+  border-bottom-width: 1px !important;
+  border-bottom-color: #e3e4f1 !important;
   background-color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -390,9 +393,6 @@ body.dark:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-bottom: solid !important;
-  border-bottom-width: 1px !important;
-  border-color: #e3e4f1 !important;
   cursor: -webkit-grab;
   cursor: grab;
   -webkit-transition-duration: 0s;
