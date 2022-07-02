@@ -57,6 +57,7 @@ body.dark:hover {
   background-image: url("https://todo-app-frontendmentor.vercel.app/static/media/bg-desktop-light.3508d620.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #type.dark {
